@@ -1,0 +1,39 @@
+.masonryGrid {
+    display: flex;
+    margin-left: calc(-1 * var(--static-space-16));
+    width: 100%;
+}
+
+.masonryGridColumn {
+    padding-left: var(--static-space-16);
+    background-clip: padding-box;
+}
+
+.gridItem {
+    margin-bottom: var(--static-space-16);
+}
+
+.text {
+    text-align: center;
+}
+
+.horizontalScroll {
+    display: flex;
+    gap: var(--static-space-16);
+    overflow-x: auto;
+    padding-bottom: 1rem;
+    /* optional: for scrollbar spacing */
+    scroll-snap-type: x mandatory;
+    /* optional: snap scrolling */
+}
+
+.item {
+    flex: 0 0 auto;
+    scroll-snap-align: start;
+    /* optional: snap scrolling */
+    width: 300px;
+    /* or any fixed/min width you prefer */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
