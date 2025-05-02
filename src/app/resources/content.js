@@ -292,7 +292,7 @@ const gallery = {
     {
       name: "Tinpawee Thongkongthun",
       degree: "6th year Medical Student SME and Med-Tech Startups Founder",
-      role: "Business and Innovation Lead",
+      role: "Chief Executive Officer",
       src: "/images/avatar/avatar-vv.png",
       alt: "image",
       orientation: "vertical",
@@ -300,7 +300,7 @@ const gallery = {
     {
       name: "Chutipon Trirattananurak, B.Eng.",
       degree: "1st year AIoT TAIST-Science Tokyo",
-      role: "AI Engineering Lead",
+      role: "Full-stack AI Engineer",
       src: "/images/avatar/avatar-ton.png",
       alt: "image",
       orientation: "vertical",
