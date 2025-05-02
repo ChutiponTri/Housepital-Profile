@@ -52,7 +52,6 @@ export default function MasonryGrid() {
         />
         <Text wrap="balance" onBackground="neutral-weak" variant="heading-default-xl" className={styles.text}>
           <strong>{image.name}</strong>
-          <br /> {image.degree}
           <br /> {image.role}
         </Text>
       </div>
