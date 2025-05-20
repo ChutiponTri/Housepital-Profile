@@ -306,7 +306,7 @@ const gallery = {
       orientation: "vertical",
     },
     {
-      name: "Natchalin K.",
+      name: "Natchalin Kenthaworn",
       degree: "4th year BBA, Chulalongkorn University",
       role: "Business and Innovation Lead",
       src: "/images/avatar/avatar-sunny.png",
