@@ -308,7 +308,7 @@ const gallery = {
     {
       name: "Natchalin Kenthaworn",
       degree: "4th year BBA, Chulalongkorn University",
-      role: "Business and Innovation Lead",
+      role: "Chief Financial Officer",
       src: "/images/avatar/avatar-sunny.png",
       alt: "image",
       orientation: "vertical",
