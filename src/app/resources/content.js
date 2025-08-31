@@ -305,14 +305,14 @@ const gallery = {
       alt: "image",
       orientation: "vertical",
     },
-    {
-      name: "Natchalin Kenthaworn",
-      degree: "4th year BBA, Chulalongkorn University",
-      role: "Chief Financial Officer",
-      src: "/images/avatar/avatar-sunny.png",
-      alt: "image",
-      orientation: "vertical",
-    },
+    // {
+    //   name: "Natchalin Kenthaworn",
+    //   degree: "4th year BBA, Chulalongkorn University",
+    //   role: "Chief Financial Officer",
+    //   src: "/images/avatar/avatar-sunny.png",
+    //   alt: "image",
+    //   orientation: "vertical",
+    // },
     {
       name: "Sirinya Jirasit",
       degree: "3rd year  Digital Engineering Sirindhorn International Institute of Technology",
